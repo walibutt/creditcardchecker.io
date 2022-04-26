@@ -87,4 +87,12 @@ const validateCred = (validNumbers) => {
   };
   
   console.log(idInvalidCardCompanies(batch));
+/* returns:
+Company Not Found
+Company Not Found
+Company Not Found
+Company Not Found
+[ 'Visa', 'Mastercard', 'Amex (American Express)', 'Discover' ]
+*/
+
   
